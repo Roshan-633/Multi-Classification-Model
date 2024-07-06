@@ -1,1 +1,1 @@
-# This is python Assignment from CS253 course
+# This repo contains python file of CS253 Assignment
